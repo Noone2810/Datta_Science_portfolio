@@ -8,3 +8,5 @@
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
 
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=Noone2810&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noone2810)](https://github.com/anuraghazra/github-readme-stats)
