@@ -1,6 +1,7 @@
 - :zap: I love problem solving, business optimization, programming, data science, and books!
 - 🌱 I'm addicted to learning everyday, ex-footballer and biker.
 - 🌏 Starting knowledge sharing through articles and others places
+- 📇 Footballer -> Biker -> Coder -> Data Freak
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@arnikhil0)
   - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
