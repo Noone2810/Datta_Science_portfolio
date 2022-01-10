@@ -5,7 +5,7 @@
   - :bulb: [Medium articles](https://medium.com/@arnikhil0)
   - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/nikhil-ar-b44156140/)
-  - :speaker: [Podcast](haha not yet)
+  - :speaker: [Podcast](Not Yet!)
 
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=Noone2810&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
