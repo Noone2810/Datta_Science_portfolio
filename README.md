@@ -4,7 +4,6 @@
 - 📇 Footballer -> Biker -> Coder -> Data Freak
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@arnikhil0)
-  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/nikhil-ar-b44156140/)
   - :speaker: [Podcast](Not Yet!)
 
