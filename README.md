@@ -1,12 +1,11 @@
 - :zap: I love problem solving, business optimization, programming, data science, and books!
 - 🌱 I'm addicted to learning everyday, ex-footballer and biker.
-- :earth_india: just started on sharing my knowledge through articles and others places
+- 🌏 Starting knowledge sharing through articles and others places
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@arnikhil0)
   - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/nikhil-ar-b44156140/)
   - :speaker: [Podcast](haha not yet)
-  - 
 
 [![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=Noone2810&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
