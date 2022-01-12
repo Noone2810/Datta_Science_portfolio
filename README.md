@@ -9,7 +9,7 @@ _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I 
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/Nikhilar16><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
+        <a href="https://twitter.com/Nikhilar16"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409937.png" width="60"></a>
     </td>
     <td align='center' width="60">
         <a href="https://www.instagram.com/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png"></a>
@@ -22,14 +22,6 @@ _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I 
 
 </p>
 
-</br>
-
-<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
-<p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=Nikhil2810&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>
 
 </br>
 
@@ -75,7 +67,7 @@ _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I 
 <h2 align='center'><i>Top Repos</i></h2>
 
 <p align="center">
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/Noone2810">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noone2810&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
 </a>
 </p>
@@ -93,11 +85,7 @@ _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I 
 - 📇 Footballer -> Biker -> Coder -> Data Freak
 - 📫 How to find me: 
   - :bulb: [Medium articles](https://medium.com/@arnikhil0)
-  - :office: [LinkedIn](https://www.linkedin.com/in/nikhil-ar-b44156140/)
   - :speaker: [Podcast](Not Yet!)
 
-[![Nikhil's github stats](https://github-readme-stats.vercel.app/api?username=Noone2810&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noone2810&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/mzedium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0">
+<!–– <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/mzedium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> -->
