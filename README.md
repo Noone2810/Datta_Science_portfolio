@@ -45,7 +45,7 @@ _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I 
     </td>
 </tr>
 <tr>
-    <td align='center' width="190">
+    <td align='center' height="60" width="190">
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="60">
     </td>
     <td align='center' width="190">
@@ -57,19 +57,11 @@ _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I 
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
-    <td align='center'>
+    <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="120">
     </td>
 </tr>
 </table>
-
-<h2 align='center'><i>Top Repos</i></h2>
-
-<p align="center">
-<a href="https://github.com/Noone2810">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=Noone2810&repo=github-readme-activity-graph&theme=vue-dark&hide_border=true" height="185">
-</a>
-</p>
 
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 <p align="center">
