@@ -1,6 +1,5 @@
 <h2 align='center'> <i>Hello, Folks! <img src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/wave.gif" width="30px"></h2>  
 
-<img align="right" src="https://github.com/Ashutosh00710/Ashutosh00710/blob/master/Overview.gif"  width="500">
 
 _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I love to analyze and predict. Can we connect me on social media?, I would love to have you in my life._  
 <h3 align='center'><i>Social Media Handles</i></h3>
@@ -88,4 +87,4 @@ _Hello there this is Nikhil A R. A Software Engineer looking at Data Science. I 
   - :speaker: [Podcast](Not Yet!)
 
 
-<!–– <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/mzedium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@khuyentran1476/0" alt="Recent Article 0"> -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/mzedium/@khuyentran1476/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@arnikhil0/0" alt="Recent Article 0">
